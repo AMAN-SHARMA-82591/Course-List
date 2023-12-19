@@ -1,0 +1,494 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://i.ytimg.com/vi/ur6I5m2nTvk/maxresdefault.jpg",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Web Development Fundamentals",
+      "instructor": "Jane Smith",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://res.cloudinary.com/boardinfinity/image/upload/t_blog_img/bi-websites/blog/11/62.png",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "HTML Fundamentals",
+          "content": "Introduction to HTML tags and elements."
+        },
+        {
+          "week": 2,
+          "topic": "CSS Styling",
+          "content": "Basic CSS properties and styles."
+        },
+        {
+          "week": 3,
+          "topic": "JavaScript Basics",
+          "content": "Getting started with JavaScript."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 3,
+      "name": "Data Science Essentials",
+      "instructor": "David Williams",
+      "description": "An introduction to data science, data analysis, and machine learning.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://connecteddataacademy.com/wp-content/uploads/2019/10/data-science-essentials-featured.png",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Overview of data science concepts."
+        },
+        {
+          "week": 2,
+          "topic": "Data Analysis Tools",
+          "content": "Introduction to data analysis software."
+        },
+        {
+          "week": 3,
+          "topic": "Machine Learning Basics",
+          "content": "Fundamentals of machine learning."
+        }
+      ],
+      "students": [
+        {
+          "id": 201,
+          "name": "Eva Davis",
+          "email": "eva@example.com"
+        },
+        {
+          "id": 202,
+          "name": "Sam Johnson",
+          "email": "sam@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Advanced JavaScript",
+      "instructor": "Mark Wilson",
+      "description": "Dive deep into advanced JavaScript concepts and practices.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/12/Advanced-JavaScript-Tutorial-1.jpg",
+      "duration": "8 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Intermediate JavaScript knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Closures and Scope",
+          "content": "Understanding closures and variable scope."
+        },
+        {
+          "week": 2,
+          "topic": "Promises and Async/Await",
+          "content": "Asynchronous programming with Promises and Async/Await."
+        },
+        {
+          "week": 3,
+          "topic": "Design Patterns",
+          "content": "Exploring common design patterns in JavaScript."
+        }
+      ],
+      "students": [
+        {
+          "id": 301,
+          "name": "Chris Smith",
+          "email": "chris@example.com"
+        },
+        {
+          "id": 302,
+          "name": "Olivia Davis",
+          "email": "olivia@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Introduction to Machine Learning",
+      "instructor": "Emily White",
+      "description": "An introductory course to machine learning and data analysis.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+      "duration": "12 weeks",
+      "schedule": "Tuesdays and Fridays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge",
+        "Statistics fundamentals"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Machine Learning Basics",
+          "content": "Fundamentals of machine learning algorithms."
+        },
+        {
+          "week": 2,
+          "topic": "Data Preprocessing",
+          "content": "Preparing data for machine learning models."
+        },
+        {
+          "week": 3,
+          "topic": "Supervised Learning",
+          "content": "Introduction to supervised learning algorithms."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 6,
+      "name": "Python Programming Basics",
+      "instructor": "Sarah Lee",
+      "description": "Learn the fundamentals of Python programming for beginners.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ytimg.com/vi/2uCXIbkbDSE/maxresdefault.jpg",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 7:30 PM - 9:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Python Syntax",
+          "content": "Introduction to Python syntax and data types."
+        },
+        {
+          "week": 2,
+          "topic": "Control Flow",
+          "content": "Working with control structures in Python."
+        },
+        {
+          "week": 3,
+          "topic": "Functions",
+          "content": "Creating and using functions in Python."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 7,
+      "name": "Front-End Web Development",
+      "instructor": "Michael Brown",
+      "description": "Learn modern web development with HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "https://qubited.com/wp-content/uploads/2023/01/cover.jpg",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "HTML and CSS Basics",
+          "content": "Fundamentals of HTML and CSS for web design."
+        },
+        {
+          "week": 2,
+          "topic": "JavaScript Essentials",
+          "content": "Introduction to JavaScript and its role in web development."
+        },
+        {
+          "week": 3,
+          "topic": "Responsive Design",
+          "content": "Creating responsive web layouts with CSS."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 8,
+      "name": "Mobile App Development",
+      "instructor": "Lisa Robinson",
+      "description": "Explore mobile app development for Android and iOS platforms.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://www.volumetree.com/wp-content/uploads/2019/11/App-development-process-Feature-image.jpg",
+      "duration": "12 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Mobile Development",
+          "content": "Overview of mobile app development and platforms."
+        },
+        {
+          "week": 2,
+          "topic": "Android App Development",
+          "content": "Creating Android apps using Java or Kotlin."
+        },
+        {
+          "week": 3,
+          "topic": "iOS App Development",
+          "content": "Developing iOS apps with Swift."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 9,
+      "name": "Data Analytics with Python",
+      "instructor": "David Miller",
+      "description": "Learn data analysis and visualization with Python.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ytimg.com/vi/GPVsHOlRBBI/maxresdefault.jpg",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic Python knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Data Cleaning",
+          "content": "Preparing and cleaning data for analysis."
+        },
+        {
+          "week": 2,
+          "topic": "Exploratory Data Analysis",
+          "content": "Analyzing data to discover patterns and insights."
+        },
+        {
+          "week": 3,
+          "topic": "Data Visualization",
+          "content": "Creating data visualizations with Python libraries."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 10,
+      "name": "Artificial Intelligence Fundamentals",
+      "instructor": "Daniel White",
+      "description": "Introduction to AI concepts and applications.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://gardeniaacademy.com/wp-content/uploads/2020/08/Artificial-Intelligence.png",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Fridays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic Python knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Data Cleaning",
+          "content": "Preparing and cleaning data for analysis."
+        },
+        {
+          "week": 2,
+          "topic": "Exploratory Data Analysis",
+          "content": "Analyzing data to discover patterns and insights."
+        },
+        {
+          "week": 3,
+          "topic": "Data Visualization",
+          "content": "Creating data visualizations with Python libraries."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 11,
+      "name": "Machine Learning Basics",
+      "instructor": "Emily Adams",
+      "description": "Introduction to machine learning algorithms and techniques.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://www.mcgill.ca/continuingstudies/files/continuingstudies/017-02-20-scs_shortprograms_fundamentalsofartificial.jpg",
+      "duration": "6 weeks",
+      "schedule": "Saturdays, 1:00 PM - 3:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge",
+        "Statistics"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of machine learning and its applications."
+        },
+        {
+          "week": 2,
+          "topic": "Supervised Learning",
+          "content": "Understanding supervised learning and algorithms."
+        },
+        {
+          "week": 3,
+          "topic": "Unsupervised Learning",
+          "content": "Exploring unsupervised learning methods."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Carol Davis",
+          "email": "carol@example.com"
+        },
+        {
+          "id": 104,
+          "name": "Evan Harris",
+          "email": "evan@example.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Cybersecurity Fundamentals",
+      "instructor": "Mark Turner",
+      "description": "Learn the basics of cybersecurity and threat detection.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Blog_Cybersecurity-Fundamentals.png",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Thursdays, 6:30 PM - 8:30 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic IT knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cybersecurity",
+          "content": "Overview of cybersecurity concepts and principles."
+        },
+        {
+          "week": 2,
+          "topic": "Network Security",
+          "content": "Securing computer networks and data."
+        },
+        {
+          "week": 3,
+          "topic": "Threat Detection",
+          "content": "Detecting and mitigating cybersecurity threats."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 13,
+      "name": "Digital Marketing Strategies",
+      "instructor": "Olivia Clark",
+      "description": "Explore digital marketing strategies and online advertising.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "https://ahrefs.com/blog/wp-content/uploads/2019/08/fb-digital-marketing-strategies-1.png",
+      "duration": "10 weeks",
+      "schedule": "Wednesdays and Fridays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic marketing knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Digital Marketing Fundamentals",
+          "content": "Introduction to digital marketing and its channels."
+        },
+        {
+          "week": 2,
+          "topic": "Social Media Marketing",
+          "content": "Strategies for effective social media marketing."
+        },
+        {
+          "week": 3,
+          "topic": "Email Marketing",
+          "content": "Leveraging email campaigns for marketing."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 14,
+      "name": "Blockchain Technology",
+      "instructor": "Nathan Adams",
+      "description": "Learn about blockchain technology and its applications.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "https://www.cyberbahnit.com/wp-content/uploads/2017/11/blockchain.jpg",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Blockchain",
+          "content": "Overview of blockchain technology and its features."
+        },
+        {
+          "week": 2,
+          "topic": "Blockchain Applications",
+          "content": "Exploring real-world applications of blockchain."
+        },
+        {
+          "week": 3,
+          "topic": "Smart Contracts",
+          "content": "Creating and executing smart contracts on a blockchain."
+        }
+      ],
+      "students": []
+    }
+  ]
+}
