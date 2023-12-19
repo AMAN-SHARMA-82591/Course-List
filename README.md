@@ -17,7 +17,6 @@ You may also see any lint errors in the console.
 ### `yarn start:server`
 
 Runs the server in the development mode.\
-Open [http://localhost:3000](http://localhost:3006) to view it in your browser.
 
 ### `yarn test`
 
